@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://kolade-oluwafemi.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=I+build+fast%2C+polished+web+apps;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Tailwind;Shipping+identity+verification+SDKs;Open+to+remote+frontend+roles+%F0%9F%8C%8D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=I+build+fast%2C+polished+web+apps;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Tailwind;Building+GovTech%2C+HealthTech+%26+HR+platforms;Open+to+remote+frontend+roles+%F0%9F%8C%8D" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,82 +16,65 @@
 
 ---
 
-### 👨🏾‍💻 About me
+## 👨🏾‍💻 About me
 
 ```ts
 const kolade = {
   role: "Frontend Engineer",
   location: "Lagos, Nigeria 🇳🇬",
-  focus: ["React & Next.js apps", "Design systems", "Dashboards & SaaS", "Identity / KYC flows"],
-  currently: "Building compliance & revenue platforms for government agencies",
+  builds: ["GovTech", "HealthTech", "HR & payroll", "Regulation & licensing", "Export traceability"],
+  strengths: ["Role-based dashboards", "Payments & wallets", "Data-dense UIs", "Shipping to production"],
   openTo: "Remote frontend / full-stack roles",
-  funFact: "I care way too much about pixel-perfect spacing",
 };
 ```
 
-### 🛠 Tech stack
+---
+
+## 🚀 Selected Projects
+
+A selection of production platforms I've built across government, healthcare, HR, regulation and export trade.
+
+| Project | Product | Engineering Highlights |
+|---|---|---|
+| **[OGIVS ↗](https://oyoguest.ng)** | Guest identity verification and levy platform, mandatory for every hotel, guest house and short-let in Oyo State. Sole frontend engineer. | `Next.js 16` · `React 19` · `TypeScript` · `Turborepo` · `HeroUI / React Aria` · `TanStack Query` · `RBAC (6 roles)` · `ID verification flow` · `Wallets & penalties` · `Webhooks & API keys` · `Audit logs` · `Vitest` |
+| **[OYSAA ↗](https://oysaa-ng.com)** | Regulation platform for the Oyo State Signage and Advertisement Agency, managing 900+ billboards and NGN 50M+ in processed revenue. | `Next.js` · `TypeScript` · `PWA` · `Leaflet GIS mapping` · `QR field enforcement` · `JWT auth` · `RBAC (6 portals)` · `Wallets & withdrawals` · `Commission engine` |
+| **[MedicFlow ↗](https://oyohmb.com)** | Hospital Management System live in 10+ public hospitals in Oyo State, from patient registration to billing. | `Next.js` · `TypeScript` · `React Query` · `EMR` · `Pharmacy / Lab / Radiology modules` · `Billing & HR` · `Strict RBAC` · `Data-dense tables` |
+| **[ProteinTrail ↗](https://proteintrail.com)** | Meat export traceability platform tracking livestock from ranch and abattoir through inspection and customs to foreign buyers. Sole frontend engineer. | `Next.js` · `TypeScript` · `Supply chain traceability` · `Marketplace` · `Cross-functional delivery` |
+| **[AMatrix ↗](https://a-matrix-sigma.vercel.app)** | Employee management system for attendance, leave, payroll and team tasks. | `Next.js 16` · `TanStack Query` · `shadcn/ui` · `React Hook Form + Zod` · `httpOnly cookie auth (BFF)` · `Single-flight token refresh` · `Geofencing` · `Video-verified check-in` · `Drag-and-drop kanban` · `OpenAPI types` |
+| **[e-Compliance ↗](https://e-compliance.vercel.app)** | Forest produce regulation portal for regulators, producers, aggregators and depot owners. | `React 19` · `Vite` · `React Router` · `RBAC (4 roles)` · `Licensing lifecycle` · `Tiered permit pricing` · `Wallet-first payments` · `PDF certificates` |
+| **SprintCheck** | Identity verification platform for BVN, voter's card and driver's licence checks. | `React` · `TypeScript` · `Payments` · `Data visualisation` · `API logs` · `Search & filtering` |
+
+> 🔒 **A note on source code:** most of these are commercial and government products built in private repositories owned by clients and employers, so the code isn't public. I'm happy to walk through the architecture of any of them on a call.
+
+### 🧪 Public code you can read
+
+| Repo | What it is |
+|---|---|
+| **[SprintCheck React SDK](https://github.com/Kolade1024/SprintCheckSDK)** | Drop-in React SDK for identity verification with in-browser biometric liveness detection. Headless `useSprintCheck` hook, fully typed. |
+| **[SprintCheck Landing v2](https://github.com/Kolade1024/SprintCheckV2)** · [live ↗](https://sprint-check-v2.vercel.app) | Pixel-faithful, responsive marketing site built with Next.js, Tailwind and Framer Motion. |
+| **[Learncity](https://github.com/Kolade1024/LearncityStudentMgt)** | Student management dashboard with enrolment, progress tracking and downloadable PDF certificates. |
+| **[Reddit Monitor Bot](https://github.com/Kolade1024/Monitorbot)** | Node.js service that scores subreddit posts for job leads and pushes Telegram alerts, with a control dashboard. |
+
+---
+
+## 🛠️ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,vite,nodejs,threejs,html,css,git,github,vercel,figma,solidity&perline=8" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,vite,nodejs,docker,nginx,git,vercel,figma&perline=11" />
 </p>
 
----
+**Daily:** `TypeScript` · `React 19` · `Next.js 16` · `Tailwind CSS` · `TanStack Query` · `Node.js`
 
-### 🚀 Featured projects
+**Also:** `Vite` · `React Router` · `Zustand` · `HeroUI / React Aria` · `shadcn/ui` · `Leaflet` · `Vitest` · `Turborepo` · `Docker` · `Nginx`
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🛡️ <a href="https://github.com/Kolade1024/SprintCheckSDK">SprintCheck React SDK</a></h4>
-      Drop-in React SDK for identity verification and <b>in-browser biometric liveness detection</b>. Zero-CSS setup, a headless <code>useSprintCheck</code> hook, fully typed.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/face--api-10b981?style=flat-square" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚡ <a href="https://github.com/Kolade1024/SprintCheckV2">SprintCheck Landing v2</a></h4>
-      A pixel-faithful, fully responsive marketing site for the SprintCheck KYC platform, with smooth Framer Motion animations.
-      <br/><br/>
-      <a href="https://sprint-check-v2.vercel.app"><b>🔗 Live demo</b></a> ·
-      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
-      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🎓 <a href="https://github.com/Kolade1024/LearncityStudentMgt">Learncity: Student Management</a></h4>
-      Academy dashboard to enrol students, track progress and <b>issue downloadable PDF certificates</b>. Search, filters, validated forms, works offline.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Next.js_16-000?style=flat-square&logo=nextdotjs" />
-      <img src="https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>🌐 <a href="https://kolade-oluwafemi.vercel.app">Personal Portfolio</a></h4>
-      My portfolio, featuring a Three.js scene, GSAP and Framer Motion animations, and a working contact form powered by Resend.
-      <br/><br/>
-      <a href="https://kolade-oluwafemi.vercel.app"><b>🔗 Live site</b></a> ·
-      <img src="https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs" />
-      <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🛍️ <a href="https://teemade-eccommerce.vercel.app">Teemade E-commerce</a></h4>
-      A live e-commerce storefront built with a modern React stack.
-      <br/><br/>
-      <a href="https://teemade-eccommerce.vercel.app"><b>🔗 Live demo</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🤖 <a href="https://github.com/Kolade1024/Monitorbot">Reddit Monitor Bot</a></h4>
-      Node.js bots that watch subreddits for freelance and dev-job leads, score posts with a keyword + heuristic filter, and push <b>instant Telegram alerts</b>. Includes a password-protected control dashboard.
-    </td>
-  </tr>
-</table>
+## 🌱 Currently
+
+- Learning .NET for backend work
+- Building AI automation products with Moore Solutions, a strategy and technology studio I co-founded
 
 ---
 
-### 📊 GitHub stats
+## 📊 GitHub stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kolade1024&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=50B347&count_private=true&include_all_commits=true" />
@@ -106,7 +89,7 @@ const kolade = {
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kolade1024&bg_color=0d1117&color=10b981&line=50B347&point=ffffff&area=true&hide_border=true" />
 </p>
 
-### 🐍 Eating my contributions
+## 🐍 Eating my contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kolade1024/Kolade1024/output/github-snake-dark.svg" />
@@ -115,6 +98,10 @@ const kolade = {
 </picture>
 
 ---
+
+## 📫 Reach me
+
+[LinkedIn](https://linkedin.com/in/kolade-oluwafemi-764981249) · [Email](mailto:akoladeemmanuel14@gmail.com) · [Portfolio](https://kolade-oluwafemi.vercel.app)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kolade1024&color=10b981&style=flat-square&label=Profile+views" />
