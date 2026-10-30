@@ -42,7 +42,7 @@ A selection of production platforms I've built across government, healthcare, HR
 | **[ProteinTrail ↗](https://proteintrail.com)** | Meat export traceability platform tracking livestock from ranch and abattoir through inspection and customs to foreign buyers. Sole frontend engineer. | `Next.js` · `TypeScript` · `Supply chain traceability` · `Marketplace` · `Cross-functional delivery` |
 | **[AMatrix ↗](https://a-matrix-sigma.vercel.app)** | Employee management system for attendance, leave, payroll and team tasks. | `Next.js 16` · `TanStack Query` · `shadcn/ui` · `React Hook Form + Zod` · `httpOnly cookie auth (BFF)` · `Single-flight token refresh` · `Geofencing` · `Video-verified check-in` · `Drag-and-drop kanban` · `OpenAPI types` |
 | **[e-Compliance ↗](https://e-compliance.vercel.app)** | Forest produce regulation portal for regulators, producers, aggregators and depot owners. | `React 19` · `Vite` · `React Router` · `RBAC (4 roles)` · `Licensing lifecycle` · `Tiered permit pricing` · `Wallet-first payments` · `PDF certificates` |
-| **SprintCheck** | Identity verification platform for BVN, voter's card and driver's licence checks. | `React` · `TypeScript` · `Payments` · `Data visualisation` · `API logs` · `Search & filtering` |
+| **[SprintCheck ↗](https://sprintcheck.megasprintlimited.com.ng/)** | Identity verification platform for BVN, voter's card and driver's licence checks. | `React` · `TypeScript` · `Payments` · `Data visualisation` · `API logs` · `Search & filtering` |
 
 > 🔒 **A note on source code:** most of these are commercial and government products built in private repositories owned by clients and employers, so the code isn't public. I'm happy to walk through the architecture of any of them on a call.
 
