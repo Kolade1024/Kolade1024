@@ -1,9 +1,9 @@
 <!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:10b981,100:50B347&height=200&section=header&text=Kolade%20Oluwafemi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Frontend%20Engineer%20%C2%B7%20Lagos%2C%20Nigeria&descAlignY=56&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:10b981,100:50B347&height=200&section=header&text=Kolade%20Oluwafemi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Lagos%2C%20Nigeria&descAlignY=56&descSize=18" />
 
 <p align="center">
   <a href="https://kolade-oluwafemi.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=I+build+fast%2C+polished+web+apps;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Tailwind;Building+GovTech%2C+HealthTech+%26+HR+platforms;Open+to+remote+frontend+roles+%F0%9F%8C%8D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=I+build+fast%2C+polished+web+apps;TypeScript+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Node.js;Building+GovTech%2C+HealthTech+%26+HR+platforms;Open+to+remote+software+engineering+roles+%F0%9F%8C%8D" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,11 +20,11 @@
 
 ```ts
 const kolade = {
-  role: "Frontend Engineer",
+  role: "Software Engineer",
   location: "Lagos, Nigeria 🇳🇬",
   builds: ["GovTech", "HealthTech", "HR & payroll", "Regulation & licensing", "Export traceability"],
   strengths: ["Role-based dashboards", "Payments & wallets", "Data-dense UIs", "Shipping to production"],
-  openTo: "Remote frontend / full-stack roles",
+  openTo: "Remote software engineering roles",
 };
 ```
 
@@ -66,6 +66,10 @@ A selection of production platforms I've built across government, healthcare, HR
 **Daily:** `TypeScript` · `React 19` · `Next.js 16` · `Tailwind CSS` · `TanStack Query` · `Node.js`
 
 **Also:** `Vite` · `React Router` · `Zustand` · `HeroUI / React Aria` · `shadcn/ui` · `Leaflet` · `Vitest` · `Turborepo` · `Docker` · `Nginx`
+
+## 📄 Publication
+
+Co-author, *Development of a Digital Map for Federal University of Agriculture, Abeokuta Using GIS*, Journal of Natural Sciences, Engineering and Technology (2025). [Read it ↗](https://journal.funaab.edu.ng/index.php/JNSET/article/view/2523)
 
 ## 🌱 Currently
 
